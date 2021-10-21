@@ -1,5 +1,6 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="N/A" group-title="UK" tvg-logo="https://www.thesun.ie/wp-content/uploads/sites/3/2018/06/VMOnw.jpg",VIRGIN MEDIA 1
-http://wagnet.club:7000/brian1/brian1/225052
-#EXTINF:-1  group-title="UK" tvg-logo="https://bcboltvirgin.akamaized.net/player/shows/generic_3e_FAVM.jpg",VIRGIN MEDIA 2
-http://wagnet.club:7000/brian1/brian1/554208
+#EXTM3U url-tvg="https://drive.google.com/file/d/1Yyd4x4S8l6O5fVfkutRfS1rcm-BsCDH9/view"
+
+#EXTINF:-1, tvg-id="Страшное HD" tvg-logo="http://epg.cdntv.online/img/417.png" tvg-name="Страшное HD"  group-title="Horror",Страшное HD
+http://185.228.135.48:8080/tv_strashnoe_hd/index.m3u8
+
+
