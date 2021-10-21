@@ -1,5 +1,4 @@
-#EXTM3U url-tvg="https://drive.google.com/file/d/1Yyd4x4S8l6O5fVfkutRfS1rcm-BsCDH9/view"
-
+#EXTM3U 
 #EXTINF:-1, tvg-id="Страшное HD" tvg-logo="http://epg.cdntv.online/img/417.png" tvg-name="Страшное HD"  group-title="Horror",Страшное HD
 http://185.228.135.48:8080/tv_strashnoe_hd/index.m3u8
 
