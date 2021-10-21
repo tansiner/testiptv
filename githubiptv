@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="N/A" group-title="UK" tvg-logo="https://www.thesun.ie/wp-content/uploads/sites/3/2018/06/VMOnw.jpg",VIRGIN MEDIA 1
+http://wagnet.club:7000/brian1/brian1/225052
+#EXTINF:-1  group-title="UK" tvg-logo="https://bcboltvirgin.akamaized.net/player/shows/generic_3e_FAVM.jpg",VIRGIN MEDIA 2
+http://wagnet.club:7000/brian1/brian1/554208
