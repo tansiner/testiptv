@@ -1,5 +1,87 @@
-#EXTM3U 
-#EXTINF:-1, tvg-id="Страшное HD" tvg-logo="http://epg.cdntv.online/img/417.png" tvg-name="Страшное HD"  group-title="Horror",Страшное HD
-http://185.228.135.48:8080/tv_strashnoe_hd/index.m3u8
-
-
+#EXTM3U url-tvg="http://m3u4u.com/epg/476rnm9gv6akr4jnekgd"
+#EXTINF:-1 tvg-id="ITV1(West).uk" tvg-name="ITV1" tvg-logo="http://www.thetechguyni.co.uk/wp-content/uploads/ALLPICONS/picons3/ukitvhd.png" group-title="UK",ITV1
+http://wagnet.club:7000/brian1/brian1/3
+#EXTINF:-1 tvg-id="ITV2.uk" tvg-name="ITV2" tvg-logo="http://www.thetechguyni.co.uk/wp-content/uploads/ALLPICONS/picons3/ukitv2hd.png" group-title="UK",ITV2
+http://wagnet.club:7000/brian1/brian1/10
+#EXTINF:-1 tvg-id="ITV3.uk" tvg-name="ITV3" tvg-logo="http://www.thetechguyni.co.uk/wp-content/uploads/ALLPICONS/picons3/ukitv3hd.png" group-title="UK",ITV3
+http://wagnet.club:7000/brian1/brian1/11
+#EXTINF:-1 tvg-id="ITV4.uk" tvg-name="ITV4" tvg-logo="http://www.thetechguyni.co.uk/wp-content/uploads/ALLPICONS/picons3/ukitv4hd.png" group-title="UK",ITV4
+http://wagnet.club:7000/brian1/brian1/12
+#EXTINF:-1 tvg-id="VirginMediaOne(src02).uk" tvg-name="VIRGIN MEDIA 1" tvg-logo="https://www.thesun.ie/wp-content/uploads/sites/3/2018/06/VMOnw.jpg" group-title="UK",VIRGIN MEDIA 1
+http://wagnet.club:7000/brian1/brian1/225052
+#EXTINF:-1 tvg-id="VirginMediaTwo(src02).uk" tvg-name="VIRGIN MEDIA 2" tvg-logo="https://bcboltvirgin.akamaized.net/player/shows/generic_3e_FAVM.jpg" group-title="UK",VIRGIN MEDIA 2
+http://wagnet.club:7000/brian1/brian1/554208
+#EXTINF:-1 tvg-id="VirginMediaThree(src02).uk" tvg-name="VIRGIN MEDIA 3" tvg-logo="https://bcboltvirgin.akamaized.net/player/shows/generic_be3_FAVM.jpg" group-title="UK",VIRGIN MEDIA 3
+http://wagnet.club:7000/brian1/brian1/554209
+#EXTINF:-1 tvg-id="BBCOne.uk" tvg-name="BBC One" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/bbcone.png" group-title="UK",BBC One
+http://wagnet.club:7000/brian1/brian1/1
+#EXTINF:-1 tvg-id="BBCTwo.uk" tvg-name="BBC Two" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/bbctwo.png" group-title="UK",BBC Two
+http://wagnet.club:7000/brian1/brian1/583076
+#EXTINF:-1 tvg-id="BBCFirst(src02).nl" tvg-name="BBC First" tvg-logo="https://bbcfirst.ca/wp-content/uploads/2021/02/BBC-First-BlackBoxLogo-copy.png" group-title="UK",BBC First
+http://thespeedmedia.watch:2086/mario/mario/144972
+#EXTINF:-1 tvg-id="More4.uk" tvg-name="MORE4 FHD" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/more4.png" group-title="UK",MORE4 FHD
+http://wagnet.club:7000/brian1/brian1/32
+#EXTINF:-1 tvg-id="E4.uk" tvg-name="E4 FHD" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/e4hd.png" group-title="UK",E4 FHD
+http://wagnet.club:7000/brian1/brian1/31
+#EXTINF:-1 tvg-id="4Seven.uk" tvg-name="4SEVEN HD" tvg-logo="http://www.thetechguyni.co.uk/wp-content/uploads/ALLPICONS/picons3/uk4sevensd.png" group-title="UK",4SEVEN HD
+http://wagnet.club:7000/brian1/brian1/585679
+#EXTINF:-1 tvg-id="Channel5.uk" tvg-name="CHANNEL 5 FHD" tvg-logo="http://www.thetechguyni.co.uk/wp-content/uploads/ALLPICONS/picons3/ukchannel5hd.png" group-title="UK",CHANNEL 5 FHD
+http://wagnet.club:7000/brian1/brian1/5
+#EXTINF:-1 tvg-id="Eden.uk" tvg-name="EDEN FHD" tvg-logo="https://e7.pngegg.com/pngimages/642/722/png-clipart-eden-television-channel-uktv-home-home-television-logo.png" group-title="UK",EDEN FHD
+http://wagnet.club:7000/brian1/brian1/39
+#EXTINF:-1 tvg-id="ForcesTV(src02).uk" tvg-name="Forces TV" tvg-logo="https://www.freeview.co.uk/sites/default/files/styles/255_wide/public/2019-10/ForcesTV-logo-255x140.png" group-title="UK",Forces TV
+https://britishtv.club/get.php?channel=forcestv&login=tansiner&password=$P$Bh/KdsdkgyRdMMnt86z4JFRsAmtpP0/&output=hls
+#EXTINF:-1 tvg-id="Drama.uk" tvg-name="Drama" tvg-logo="http://www.thetechguyni.co.uk/wp-content/uploads/ALLPICONS/picons3/ukdramasd.png" group-title="UK",Drama
+https://britishtv.club/get.php?channel=drama&login=tansiner&password=$P$Bh/KdsdkgyRdMMnt86z4JFRsAmtpP0/&output=hls
+#EXTINF:-1 tvg-id="E4.uk" tvg-name="E4" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/e4hd.png" group-title="UK",E4
+https://britishtv.club/get.php?channel=e4&login=tansiner&password=$P$Bh/KdsdkgyRdMMnt86z4JFRsAmtpP0/&output=hls
+#EXTINF:-1 tvg-id="Channel5.uk" tvg-name="Channel 5" tvg-logo="http://www.thetechguyni.co.uk/wp-content/uploads/ALLPICONS/picons3/ukchannel5hd.png" group-title="UK",Channel 5
+https://britishtv.club/get.php?channel=channel5&login=tansiner&password=$P$Bh/KdsdkgyRdMMnt86z4JFRsAmtpP0/&output=hls
+#EXTINF:-1 tvg-id="TalkingPictures.uk" tvg-name="TALKING PICTURES" tvg-logo="http://www.thetechguyni.co.uk/wp-content/uploads/ALLPICONS/picons2/talkingpictures.png" group-title="UK",TALKING PICTURES
+http://wagnet.club:7000/brian1/brian1/564944
+#EXTINF:-1 tvg-id="GOLD.uk" tvg-name="GOLD HD" tvg-logo="http://www.thetechguyni.co.uk/wp-content/uploads/ALLPICONS/picons3/ukgoldsd.png" group-title="UK",GOLD HD
+http://wagnet.club:7000/brian1/brian1/15
+#EXTINF:-1 tvg-id="HorrorChannel.uk" tvg-name="HORROR CHANNEL" tvg-logo="https://www.tvguide.co.uk/channel_logos/60x35/425.png" group-title="UK",HORROR CHANNEL
+http://wagnet.club:7000/brian1/brian1/554315
+#EXTINF:-1 tvg-id="Film4.uk" tvg-name="FILM 4 FHD" tvg-logo="https://static.cinemagia.ro/img/tv_station/film4.jpg" group-title="UK",FILM 4 FHD
+http://wagnet.club:7000/brian1/brian1/40
+#EXTINF:-1 tvg-id="STV.uk" tvg-name="STV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/87/STV_logo_2014.png" group-title="UK",STV FHD
+http://wagnet.club:7000/brian1/brian1/44
+#EXTINF:-1 tvg-id="Yesterday.uk" tvg-name="YESTERDAY" tvg-logo="https://otv-us-web.s3-us-west-2.amazonaws.com/logos/guide/2/Open/92x36_352/Source/31177/yesterdaytv_colordark.png" group-title="UK",YESTERDAY
+https://britishtv.club/get.php?channel=yesterday&login=tansiner&password=$P$Bh/KdsdkgyRdMMnt86z4JFRsAmtpP0/&output=hls
+#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-name="SKY SPORTS PREMIER LEAGUE HD" tvg-logo="http://wagnet.club:7000/images/84612f53b6112b55773db3a9174c4cba.png" group-title="UK",SKY SPORTS PREMIER LEAGUE HD
+http://wagnet.club:7000/brian1/brian1/945593
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="SKY SPORTS MAIN EVENT HD" tvg-logo="http://wagnet.club:7000/images/4ad336378ff810bb0018c5b564349ff1.png" group-title="UK",SKY SPORTS MAIN EVENT HD
+http://wagnet.club:7000/brian1/brian1/945591
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="SKY SPORTS FOOTBALL HD" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/football.png" group-title="UK",SKY SPORTS FOOTBALL HD
+http://wagnet.club:7000/brian1/brian1/945589
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="SKY SPORTS FOOTBALL FHD" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/football.png" group-title="UK",SKY SPORTS FOOTBALL FHD
+http://wagnet.club:7000/brian1/brian1/101
+#EXTINF:-1 tvg-id="SkyCrime.uk" tvg-name="Sky Crime" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/skymoviescrimethriller.png" group-title="UK",Sky Crime
+http://wagnet.club:7000/brian1/brian1/9
+#EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="SKY NEWS HD" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/skynewshd.png" group-title="UK",SKY NEWS HD
+http://wagnet.club:7000/brian1/brian1/554309
+#EXTINF:-1 tvg-id="SkyCinemaComedy.uk" tvg-name="SKY CINEMA COMEDY HD" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/skymovieshdcomedy.png" group-title="UK",SKY CINEMA COMEDY HD
+http://wagnet.club:7000/brian1/brian1/655742
+#EXTINF:-1 tvg-id="SkyCinemaPremiere.uk" tvg-name="SKY CINEMA PREMIER HD" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/skymovieshdpremiere.png" group-title="UK",SKY CINEMA PREMIER HD
+http://wagnet.club:7000/brian1/brian1/655739
+#EXTINF:-1 tvg-id="SkyCinemaHits.uk" tvg-name="SKY CINEMA HITS HD" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/skymoviesshowcase.png" group-title="UK",SKY CINEMA HITS HD
+http://wagnet.club:7000/brian1/brian1/655740
+#EXTINF:-1 tvg-id="SkyCinemaGreats.uk" tvg-name="Sky Cinema Greats" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/skymoviesgreats.png" group-title="UK",Sky Cinema Greats
+http://wagnet.club:7000/brian1/brian1/655745
+#EXTINF:-1 tvg-id="SkyCinemaFamily.uk" tvg-name="SKY CINEMA FAMILY HD" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/skymovieshdfamily.png" group-title="UK",SKY CINEMA FAMILY HD
+http://wagnet.club:7000/brian1/brian1/655741
+#EXTINF:-1 tvg-id="SkyCinemaDrama.uk" tvg-name="SKY CINEMA DRAMA HD" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/skymovieshddramaromance.png" group-title="UK",SKY CINEMA DRAMA HD
+http://wagnet.club:7000/brian1/brian1/655746
+#EXTINF:-1 tvg-id="SkyCinemaAction.uk" tvg-name="SKY CINEMA ACTION HD" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/skymoviesactionadventure.png" group-title="UK",SKY CINEMA ACTION HD
+http://wagnet.club:7000/brian1/brian1/655743
+#EXTINF:-1 tvg-id="SkyMax.uk" tvg-name="SKY MAX FHD" tvg-logo="https://static.skyassets.com/contentstack/assets/bltdc2476c7b6b194dd/blt5e266cccc0dd51ee/610086daed7a525fcd55e631/Main-Image-1.jpg" group-title="UK",SKY MAX FHD
+http://wagnet.club:7000/brian1/brian1/938252
+#EXTINF:-1 tvg-id="SkyDocumentaries.uk" tvg-name="SKY DOCUMENTARIES" tvg-logo="https://www.tvguide.co.uk/channel_logos/60x35/258.png" group-title="UK",SKY DOCUMENTARIES
+http://wagnet.club:7000/brian1/brian1/564946
+#EXTINF:-1 tvg-id="SkyCinemaThriller.uk" tvg-name="SKY CINEMA THRILLER HD" tvg-logo="N/A" group-title="UK",SKY CINEMA THRILLER HD
+http://wagnet.club:7000/brian1/brian1/655737
+#EXTINF:-1 tvg-id="SkyCinemaSciFiandHorror.uk" tvg-name="SKY CINEMA SCI-FI HD" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/skymovieshdscifihorror.png" group-title="UK",SKY CINEMA SCI-FI HD
+http://wagnet.club:7000/brian1/brian1/655744
+#EXTINF:-1 tvg-id="Challenge(src02).uk" tvg-name="CHALLENGE" tvg-logo="https://www.tvguide.co.uk/channel_logos/60x35/120.png" group-title="UK",CHALLENGE
+http://wagnet.club:7000/brian1/brian1/18
